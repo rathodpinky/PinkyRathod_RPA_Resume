@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -148,8 +148,3 @@
         <h4 class="section-title">Interests</h4>
         <p>Carrom, Trekking, Sketching, Sewing & Making Clothes, Cooking</p>
     </div>
-
-</div>
-
-</body>
-</html>
